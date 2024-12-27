@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ruthra!  
+# 👋 Hi, I'm Ruthra(Ruthravarshan)!  
 
 Welcome to my GitHub profile! I'm a **Machine Learning Enthusiast** and **IoT Innovator**, driven by a passion for building impactful solutions through **AI, ML, and Data Science**. I thrive on exploring cutting-edge technologies to solve real-world challenges.
 
