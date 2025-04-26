@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ruthra(Ruthravarshan)!  
 
-Welcome to my GitHub profile! I am a passionate Data Scientist and Machine Learning Enthusiast. I am deeply involved in solving real-world problems through AI, ML, and Data Science, and I enjoy experimenting with various datasets and technologies to uncover meaningful insights.
+A passionate Data Scientist and Machine Learning Enthusiast. I am deeply involved in solving real-world problems through AI, ML, and Data Science, and I enjoy experimenting with various datasets and technologies to uncover meaningful insights.
 
 ---
 
@@ -65,7 +65,32 @@ I am an intermediate-level Machine Learning Engineer with experience working on 
 
 ## 📫 Let's Connect  
 
-- [LinkedIn](https://www.linkedin.com/in/ruthra-ai/)  
-- [Email](mailto:ruthra.ai@ksrct.edu)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ruthravarshan-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruthravarshan-s" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/ruthravarshans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ruthravarshans" height="30" width="40" /></a>
+<a href="https://leetcode.com/cybermad7373/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cybermad7373" height="30" width="40" /></a>
+</p>
 
 Feel free to connect for collaboration, innovative projects, or professional opportunities!
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/> </a>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
+<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cybermad7373&show_icons=true&locale=en&layout=compact" alt="cybermad7373" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cybermad7373&show_icons=true&locale=en" alt="cybermad7373" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cybermad7373&" alt="cybermad7373" /></p>
+
